@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["F2YGP7JP36.com.isaacnam.financetracker"],
+        "components": [
+          {
+            "/": "/wealth-redirect*",
+            "comment": "Plaid OAuth redirect"
+          }
+        ]
+      }
+    ]
+  }
+}
